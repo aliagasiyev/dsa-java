@@ -1,4 +1,4 @@
-package dsa.java.lesson;
+package dsa.java.arrays;
 public class Lesson01 {
     public static void main(String[] args) {
 

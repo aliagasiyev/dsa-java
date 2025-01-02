@@ -1,4 +1,4 @@
-package dsa.java.lesson.loops;
+package dsa.java.loops;
 
 import java.util.Scanner;
 

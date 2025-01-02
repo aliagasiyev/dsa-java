@@ -1,4 +1,4 @@
-package dsa.java.lesson;
+package dsa.java.arrays;
 
 import java.util.Arrays;
 
