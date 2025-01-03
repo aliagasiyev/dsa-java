@@ -12,6 +12,7 @@ public class MainApp{
 
         electronicStore.removeProductById(2);
 
+
         electronicStore.displayInventory();
 
         double totalValue = electronicStore.calculateTotalValue();
